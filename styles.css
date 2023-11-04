@@ -1,5 +1,5 @@
 /* Do not add any css, this is a bootstrap only assignment  */
-div>div{
+div>div>div{
 	width:100vw;
 	height:100vh;
 	display:flex;
